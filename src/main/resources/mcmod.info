@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "longdistancetracking",
+    "name": "LongDistanceTracking",
+    "description": "Let's you see entities from extremely far away",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Spyrxo"],
+    "credits": "Spyrxo",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
